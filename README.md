@@ -86,6 +86,11 @@ Optimism 作为第一个大规模空投的公链项目，一方面增加了空�
 
 ![image](./3.jpg)
 
+- [https://earndrop.io/](https://earndrop.io/)
+未认领空投提醒
+
+![image](./10.png)
+
 ### （二）推特KOL
 
 |  昵称 | 粉丝数  | 链接  |
@@ -95,16 +100,137 @@ Optimism 作为第一个大规模空投的公链项目，一方面增加了空�
 |  暴躁的希爷 | 2.4万  | [https://twitter.com/yakin168](https://twitter.com/yakin168)  |
 |  Y林YourAirdrop | 2.5万  | [https://twitter.com/YourAirdropETH](https://twitter.com/YourAirdropETH)  |
 | 马蹄橘子  | 3.8万  |  [https://twitter.com/bitcoinzhang1](https://twitter.com/bitcoinzhang1) |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|  元宇宙阿Q |  3.1万 | [https://twitter.com/Atirisvvvvv](https://twitter.com/Atirisvvvvv)  |
+|  蓝衣侯-投资笔记 | 5.2万  | [https://twitter.com/lanyihou](https://twitter.com/lanyihou)  |
+| sanyi.eth  | 4.3万  | [https://twitter.com/ylm5573](https://twitter.com/ylm5573)  |
+|  lilili.eth | 6.7万  | [https://twitter.com/dashutiaozi](https://twitter.com/dashutiaozi)  |
+|  鉴叔 | 3.3万  | [https://twitter.com/jianshubiji](https://twitter.com/jianshubiji)  |
+|  crypto指南针 | 8.3万  | [https://twitter.com/bishengkegs](https://twitter.com/bishengkegs)  |
+| 凉粉小刀  | 4万  |  [https://twitter.com/liangfenxiaodao](https://twitter.com/liangfenxiaodao) |
+| 链上达人  | 2.5万  | [https://twitter.com/wenxue600](https://twitter.com/wenxue600)  |
+|  追风Lab | 2.5万  | [https://twitter.com/ZF_lab](https://twitter.com/ZF_lab)  |
+| 一亿小目标  | 5.4万  | [https://twitter.com/Yiyixmb](https://twitter.com/Yiyixmb)  |
+|  Greta008 | 2.8万  | [https://twitter.com/Greta0086](https://twitter.com/Greta0086)  |
+|  加密鹰 |  14.5万 | [https://twitter.com/jiamiying](https://twitter.com/jiamiying) |
+
+### （三）撸毛社区
+
+|  社区名称 | discord  | telegram  |
+|:-----------------------:|:---------------:|:-----------------------------------------:|
+|  3amClub  |  [https://t.co/aV5F4VjD71](https://t.co/aV5F4VjD71) | -  |
+|  8848社区 | [https://t.co/OSaBnabASv](https://t.co/OSaBnabASv)  | [http://t.me/TG8848Community](http://t.me/TG8848Community)  |
+|  web3 club | [https://t.co/7Z6VogM2X7](https://t.co/7Z6VogM2X7)  |[https://t.co/RmhJtXqT04](https://t.co/RmhJtXqT04)   |
+|  达人社区 | [https://t.co/LSCdOT99iX](https://t.co/LSCdOT99iX)  |  - |
+|  追风社区 |  [https://t.co/mbxDpZgrtv](https://t.co/mbxDpZgrtv) | -  |
+|  CandyDAO糖果社区 | [https://t.co/DPpWnd9s6P](https://t.co/DPpWnd9s6P)  |  - |
+| web3大航海时代  | [https://t.co/bV9gkv8wVy](https://t.co/bV9gkv8wVy)  | -  |
+| Biteye   | [https://discord.gg/62wVPCnJkr](https://discord.gg/62wVPCnJkr)  |  - |
+|  老韭门 | [https://discord.com/invite/fvtgzVVQxS](https://discord.com/invite/fvtgzVVQxS)  | -  |
+| 深浅club  | [https://t.co/bcJDNgy6iL](https://t.co/bcJDNgy6iL)  | [https://t.co/XvFi9E02qB](https://t.co/XvFi9E02qB)  |
+
+### （四）其他工具类网站
+
+- 【查融资信息】[https://crypto-fundraising.info/deal-flow/](https://crypto-fundraising.info/deal-flow/)
+![image](./4.jpg)
+
+- 【查融资信息】[https://www.cypherhunter.com/en/](https://www.cypherhunter.com/en/)
+![image](./5.jpg)
+
+- 【数据分析】[https://dune.com/browse/dashboards](https://dune.com/browse/dashboards)
+![image](./6.jpg)
+
+- 【Mirror搜索】（各种空投教程）[https://index3.io/](https://index3.io/)
+![image](./7.jpg)
+
+- 【链上工具集】[https://cointool.app/dashboard](https://cointool.app/dashboard)
+![image](./8.jpg)
+
+- 【一键添加网络】[https://chainlist.org/zh](https://chainlist.org/zh)
+![image](./9.jpg)
+
+
+## 空投类型
+
+根据空投的获取条件和方式不同，空投大致可以分为以下几类：
+
+- 主网交互
+这类空投一般发生在主网上线但尚未发币时，需要用户深度参与项目生态，因为交互需要支付gas费，参与成本较高，但通常空投的价值也会比较高。如Uniswap空投。
+
+- 测试网交互
+这类空投一般发生在主网尚未上线也未发币时，用户作为早期体验者参与项目进行测试，积极反馈bug以便项目方及时改进优化，当主网上线时空投代币进行奖励。因测试网交互只需用测试币，成本几乎为零，但这类空投一般价值较低，运气好的话也可遇到大毛，如Aptos空投。
+
+- 参与质押
+这类空投是为奖励项目生态质押者，通常会根据质押价值分配比例，资金成本较高。如质押Atom获得Cosmos生态的各类空投。
+
+- 注册域名
+注册域名获得空投资格，如ENS空投。
+
+- 参与链上任务，领取OAT、NFT等链上凭证，从而获得空投资格
+这类空投需要用户完成官方的指定任务，如关注Twitter、加入官方社群、投票、交互等等，完成任务后可以领取官方特制的nft作为空投资格。操作比较简单，但通常需要绑定社交媒体账号，不便多号操作。如Aptos空投就把铸造NFT一项列入了领取资格中。
+
+## 内容任务平台及介绍
+
+- **Project Galaxy**
+
+Project Galaxy 致力于成为 Web3 世界的链上凭证基础平台，用户连接钱包登入后，即可在「Campaigns」页面看到正在进行的任务活动。做为Web3.0任务平台的龙头项目，很多高质量的项目前期在上面发行OAT、NFT等作为早鸟等凭证。
+
+官方网站:[https://galxe.com/](https://galxe.com/)
+官方推特：[https://twitter.com/Galxe](https://twitter.com/Galxe)
+操作教程：[教程链接](https://mirror.xyz/0xF2eE2c1FF9A392c23C11664D12A5C656794B7081/-EN1OUAiyJTb4PhDM4Oz7O3AWAnVQpnZYc7ElaU_qgc)
+
+- **Quest3**
+
+Quest3 是一个 Web3 任务和事件平台。用户可以轻松在上面发现各类项目社区，并通过完成任务获取代币奖励和OAT奖励。
+
+官方网站：[https://quest3.xyz/](https://quest3.xyz/)
+官方推特：[https://twitter.com/Quest3_xyz](https://twitter.com/Quest3_xyz)
+操作教程：[教程链接](https://mirror.xyz/xiaoyubtc.eth/E8LKYbyomGsoeA2aFAjoGCc2_Zql4aLIXj2EiX7uF7E)
+
+- **RabbitHole**
+
+RabbitHole 旨在通过游戏化思维，将每个去中心化应用分解为游戏任务，引导用户与区块链协议、去中心化应用进行交互，培育 DeFi 用户的使用习惯，同时用户的 Web3 操作和行为还将获得认证。
+
+官方网站：[https://app.rabbithole.gg/skills](https://app.rabbithole.gg/skills)
+官方推特：[https://twitter.com/rabbithole_gg](https://twitter.com/rabbithole_gg)
+操作教程：[教程链接](https://mirror.xyz/0x5BD110DB21A2F7bB27845Faf7Ed41444338C9e11/TAm_e0BWZddYLTTu0s5iIN6et92pPjW7vwfDNRAcXak)
+
+- **DappBack**
+
+DappBack上都是早期项目，基本上为社交任务，比较简单，如关注项目Twitter，进入项目官方Telegram、Discord等，采用积分模式，达到一定分数后便可以领取NFT等奖励，整个交互模式更像是目前项目方常用的Gleam 填表。
+
+官方网站：[https://dappback.com/](https://dappback.com/)
+官方推特：[https://twitter.com/DappBackHQ](https://twitter.com/DappBackHQ)
+操作教程：[教程链接](https://mirror.xyz/0xD07e20a52b71cE9c911385D04c79a2418Bf04502/5arPKgh8qQOQhoGClXKucFS9W4enLsuWM6FwAirNb4k)
+
+- **Layer3**
+
+Layer3为致力于贡献 Web3 世界的用户提供敞口。目前 Layer3 提供了三类产品，分别为 Bounties、Contests 和 Projects。
+
+官方网站：[https://beta.layer3.xyz/](https://beta.layer3.xyz/)
+官方推特：[https://twitter.com/layer3xyz](https://twitter.com/layer3xyz)
+操作教程：[教程链接](https://foresightnews.pro/article/detail/9135)
+
+## 防女巫攻击
+
+由于空投能获得丰厚收益，因此很多职业撸毛者会建立成百上千个账号进行操作，从而获得巨量回报，但这类账号并不能反应用户的真实体验，而且会使项目方蒙受损失，因此很多项目会对空投资格获得者进行女巫审查。
+
+以下行为被判定女巫的直接证据：
+- IP地址相同
+- 钱包间有转账，无论是1个钱包转多个，或者a转b、b转c、c转d，都算关联。
+- 链上操作行为类似，比如30个钱包用相近的金额交互了相同的项目，或者同一时段内（可以是一周，也可以是一个月）按照顺序交互了几个相同的项目。
+- 归集到同个钱包地址或者归集到同个交易所地址。
+- 无论那条链被证明钱包关联，都会判定女巫。
+- 同一个时间段，在同一个项目操作了类似金额的交互。
+
+## 总结
+
+1.	撸毛的用户量很多，未来也会继续增加。
+2.	已经出现职业撸毛人以及社群，但信息相对庞杂、碎片化。
+3.	方便撸毛最重要有两点：一是信息整合，二是工具整合
+4.	如果Mixin能够集合从空投信息、操作教程、直达工具的一站式服务，将能够很好的满足用户痛点。
+
+
+
+
 
 
