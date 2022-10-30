@@ -174,40 +174,60 @@ Optimism 作为第一个大规模空投的公链项目，一方面增加了空�
 
 Project Galaxy 致力于成为 Web3 世界的链上凭证基础平台，用户连接钱包登入后，即可在「Campaigns」页面看到正在进行的任务活动。做为Web3.0任务平台的龙头项目，很多高质量的项目前期在上面发行OAT、NFT等作为早鸟等凭证。
 
-官方网站:[https://galxe.com/](https://galxe.com/)
-官方推特：[https://twitter.com/Galxe](https://twitter.com/Galxe)
+![image](./11.jpg)
+
+官方网站: [https://galxe.com/](https://galxe.com/)  
+
+官方推特：[https://twitter.com/Galxe](https://twitter.com/Galxe)  
+
 操作教程：[教程链接](https://mirror.xyz/0xF2eE2c1FF9A392c23C11664D12A5C656794B7081/-EN1OUAiyJTb4PhDM4Oz7O3AWAnVQpnZYc7ElaU_qgc)
 
 - **Quest3**
 
 Quest3 是一个 Web3 任务和事件平台。用户可以轻松在上面发现各类项目社区，并通过完成任务获取代币奖励和OAT奖励。
 
-官方网站：[https://quest3.xyz/](https://quest3.xyz/)
-官方推特：[https://twitter.com/Quest3_xyz](https://twitter.com/Quest3_xyz)
+![image](./12.jpg)
+
+官方网站：[https://quest3.xyz/](https://quest3.xyz/)  
+
+官方推特：[https://twitter.com/Quest3_xyz](https://twitter.com/Quest3_xyz)  
+
 操作教程：[教程链接](https://mirror.xyz/xiaoyubtc.eth/E8LKYbyomGsoeA2aFAjoGCc2_Zql4aLIXj2EiX7uF7E)
 
 - **RabbitHole**
 
 RabbitHole 旨在通过游戏化思维，将每个去中心化应用分解为游戏任务，引导用户与区块链协议、去中心化应用进行交互，培育 DeFi 用户的使用习惯，同时用户的 Web3 操作和行为还将获得认证。
 
-官方网站：[https://app.rabbithole.gg/skills](https://app.rabbithole.gg/skills)
-官方推特：[https://twitter.com/rabbithole_gg](https://twitter.com/rabbithole_gg)
+![image](./13.jpg)
+
+官方网站：[https://app.rabbithole.gg/skills](https://app.rabbithole.gg/skills)  
+
+官方推特：[https://twitter.com/rabbithole_gg](https://twitter.com/rabbithole_gg)  
+
 操作教程：[教程链接](https://mirror.xyz/0x5BD110DB21A2F7bB27845Faf7Ed41444338C9e11/TAm_e0BWZddYLTTu0s5iIN6et92pPjW7vwfDNRAcXak)
 
 - **DappBack**
 
 DappBack上都是早期项目，基本上为社交任务，比较简单，如关注项目Twitter，进入项目官方Telegram、Discord等，采用积分模式，达到一定分数后便可以领取NFT等奖励，整个交互模式更像是目前项目方常用的Gleam 填表。
 
-官方网站：[https://dappback.com/](https://dappback.com/)
-官方推特：[https://twitter.com/DappBackHQ](https://twitter.com/DappBackHQ)
+![image](./14.jpg)
+
+官方网站：[https://dappback.com/](https://dappback.com/)  
+
+官方推特：[https://twitter.com/DappBackHQ](https://twitter.com/DappBackHQ)  
+
 操作教程：[教程链接](https://mirror.xyz/0xD07e20a52b71cE9c911385D04c79a2418Bf04502/5arPKgh8qQOQhoGClXKucFS9W4enLsuWM6FwAirNb4k)
 
 - **Layer3**
 
 Layer3为致力于贡献 Web3 世界的用户提供敞口。目前 Layer3 提供了三类产品，分别为 Bounties、Contests 和 Projects。
 
-官方网站：[https://beta.layer3.xyz/](https://beta.layer3.xyz/)
-官方推特：[https://twitter.com/layer3xyz](https://twitter.com/layer3xyz)
+![image](./15.jpg)
+
+官方网站：[https://beta.layer3.xyz/](https://beta.layer3.xyz/)  
+
+官方推特：[https://twitter.com/layer3xyz](https://twitter.com/layer3xyz)  
+
 操作教程：[教程链接](https://foresightnews.pro/article/detail/9135)
 
 ## 防女巫攻击
