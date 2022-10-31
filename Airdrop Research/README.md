@@ -148,6 +148,9 @@ Optimism 作为第一个大规模空投的公链项目，一方面增加了空�
 - 【一键添加网络】[https://chainlist.org/zh](https://chainlist.org/zh)
 ![image](./9.jpg)
 
+- 【区块链工具导航】[https://foresightnews.pro/tools](https://foresightnews.pro/tools)
+![image](./16.jpg)
+
 
 ## 空投类型
 
