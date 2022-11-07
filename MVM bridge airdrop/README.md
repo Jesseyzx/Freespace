@@ -29,6 +29,7 @@ D -->|回流|F[mixin社群]
 ### 二、链上资质证明平台
 
 - 参与用户由mixin社群、mixinnetwork推特导入，引向链上资质证明平台
+- 活动平台待选：推荐galxe，备选quest3、Trantor
 - 用户需完成全部任务才能获得链上凭证（OAT）:
    1. 关注mixinnetwork推特账户
    2. 关注MVM bridge推特账户
