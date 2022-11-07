@@ -11,7 +11,7 @@
 ```mermaid
 flowchart LR
 A[mixin社群/mixinnetwork推特] -->|活动发射|B{链上资质证明平台}
-B -->|流向|C[teitter]
+B -->|流向|C[twitter]
 B -->|流向|D[discord]
 B -->|流向|E[MVM bridge]
 D -->|回流|F[mixin社群]
