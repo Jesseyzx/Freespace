@@ -11,8 +11,8 @@
 ```flow
 o1=operation: mixin社群/mixinnetwork推特
 o2=operation: 链上资质证明平台
-03=operation: discord
-04=operation: twitter
+o3=operation: discord
+o4=operation: twitter
 o5=operation: MVM bridge
 o6=operation: mixin社群
 
