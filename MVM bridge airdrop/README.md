@@ -8,21 +8,13 @@
 
 ## 流量闭环
 
-```flow
-o1=>operation: mixin社群/mixinnetwork推特
-o2=>operation: 链上资质证明平台
-o3=>operation: discord
-o4=>operation: twitter
-o5=>operation: MVM bridge
-o6=>operation: mixin社群
-
-o1->o2
-o2->o3
-o2->o4
-o2->o5
-o3->o1
-o4->o1
-o5->o1
+```
+flowchart LR
+A[mixin社群/mixinnetwork推特] -->|活动发射|B{链上资质证明平台}
+B -->|流向|C[teitter]
+B -->|流向|D[discord]
+B -->|流向|E[MVM bridge]
+D -->|回流|F[mixin社群]
 ```
 
 ## 流程相关
