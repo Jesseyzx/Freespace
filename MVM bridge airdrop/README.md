@@ -9,21 +9,20 @@
 ## 流量闭环
 
 ```flow
-o1=operation: mixin社群/mixinnetwork推特
-o2=operation: 链上资质证明平台
-o3=operation: discord
-o4=operation: twitter
-o5=operation: MVM bridge
-o6=operation: mixin社群
+o1=>operation: mixin社群/mixinnetwork推特
+o2=>operation: 链上资质证明平台
+o3=>operation: discord
+o4=>operation: twitter
+o5=>operation: MVM bridge
+o6=>operation: mixin社群
 
-o1-o2
-o2-o3
-o2-o4
-o2-o5
-o3-o1
-o4-o1
-o5-o1
-
+o1->o2
+o2->o3
+o2->o4
+o2->o5
+o3->o1
+o4->o1
+o5->o1
 ```
 
 ## 流程相关
