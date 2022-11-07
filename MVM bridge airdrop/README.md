@@ -34,7 +34,7 @@ D -->|回流|F[mixin社群]
    1. 关注mixinnetwork推特账户
    2. 关注MVM bridge推特账户
    3. 加入MVM bridge discord社群
-   4. 转发&点赞mixinnetwork推特的活动推文
+   4. 转发&点赞mixinnetwork推特的活动推文（裂变）
    5. 使用MVM bridge完成一次任意金额的充值
 
 ### 三、discord社群
@@ -43,7 +43,7 @@ D -->|回流|F[mixin社群]
 - 设置资产验证（机器人Collab.Land#6372），凡持有OAT者自动获得early bird身份组标签
 - 设置discord任务，完成条件者可开票获得OG身份组标签（暂定500上限）
   1. 社群等级达到3级
-  2. 邀请三人
+  2. 邀请三人（裂变）
   3. 持有OAT
 
 ## 奖励设置
